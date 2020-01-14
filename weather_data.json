@@ -1,9 +1,0 @@
-{
-  "weather_data": {
-    "location": "Kalmar",
-    "timestamp": "1970-01-01 01:00:00",
-    "temperature": 5.5,
-    "rainfall": 3.5,
-    "humidity": 67
-  }
-}
